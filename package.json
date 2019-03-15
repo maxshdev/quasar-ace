@@ -1,0 +1,32 @@
+{
+  "name": "qua-ace",
+  "version": "0.0.1",
+  "description": "administrador de contenidos escalables con quasar",
+  "productName": "ace-app",
+  "cordovaId": "org.cordova.quasar.app",
+  "author": "mshtefec <max.shtefec@gmail.com>",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "vue-i18n": "^7.3.3"
+  },
+  "devDependencies": {
+    "quasar-cli": "^0.17.0",
+    "strip-ansi": "=3.0.1"
+  },
+  "engines": {
+    "node": ">= 8.9.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 10"
+  ],
+  "resolutions": {
+    "ajv": "6.8.1"
+  }
+}
